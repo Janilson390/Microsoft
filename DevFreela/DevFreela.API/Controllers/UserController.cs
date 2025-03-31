@@ -6,6 +6,10 @@ namespace DevFreela.API.Controllers;
 [Route("api/users")]
 public class UserController :ControllerBase
 {
+    public UserController(ExampleClass exampleClass)
+    {
+        
+    }
     // api/users
     [HttpGet]
     public IActionResult Get() {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oRYKL/nSlPNPnQ+SP2EeHINBhIwxfj2D99OEqqqYfn+9DI4Kn37lWpUtJRwQnR+wd/HKg9TqZOjKnZdZQzRopw==",
+  "dgSpecHash": "k4GHnrgyjnJqEOexE/7yIbmEd2voCXGYdsRnaXaL+H6pUgLpCWMNe7tEwkBBO60RgBRHX0NomyQPxcnhZ9EZdw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.API\\DevFreela.API.csproj",
+  "projectFilePath": "C:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.API\\DevFreela.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FQXL\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.6\\microsoft.aspnetcore.openapi.8.0.6.nupkg.sha512",
     "C:\\Users\\FQXL\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
