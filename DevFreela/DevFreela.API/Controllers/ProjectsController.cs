@@ -81,4 +81,18 @@ public class ProjectsController : ControllerBase
         return NoContent();
     }
 
+    [HttpPatch("{id}")]
+    public IActionResult Patch(int id, [FromBody]UpdateProjectModel updateProjectModel)
+    {   
+        //Buscar o projeto
+        //return BadRequest();
+        
+        if (updateProjectModel.Description.Length > 200){
+            return BadRequest();
+        }
+
+        //Atualiza o projeto
+        return NoContent();
+    }
+
 }
