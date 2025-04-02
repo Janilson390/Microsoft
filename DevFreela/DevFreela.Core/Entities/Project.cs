@@ -4,7 +4,7 @@ namespace DevFreela.Core.Entities;
 
 public class Project : BaseEntity
 {
-    public Project(int title, int description, int idCliente, int idFreelancer, decimal? totalCost)
+    public Project(string title, string description, int idCliente, int idFreelancer, decimal? totalCost)
     {
         this.Title = title;
         this.Description = description;
@@ -18,8 +18,8 @@ public class Project : BaseEntity
     }
 
 
-    public int Title { get; private set; }    
-    public int Description { get; private set; }    
+    public string Title { get; private set; }    
+    public string Description { get; private set; }    
     public int IdCliente { get; private set; }    
     public int IdFreelancer { get; private set; } 
     public decimal? TotalCost { get; private set; }
