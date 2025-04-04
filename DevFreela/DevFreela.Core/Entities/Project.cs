@@ -28,4 +28,35 @@ public class Project : BaseEntity
     public DateTime? FinishedAt { get; private set; }
     public ProjectStatusEnum Status { get; private set; }
     public List<ProjectComments> Comments { get; private set; }
+
+    public void Cancel()
+    { 
+        if(this.Status == ProjectStatusEnum.InProgress || this.Status == ProjectStatusEnum.InProgress)
+        {   
+            this.Status = ProjectStatusEnum.Cancelled;
+        }              
+    }
+    public void Finish()
+    { 
+        if(this.Status == ProjectStatusEnum.InProgress)
+        {
+            this.Status = ProjectStatusEnum.Finished; 
+            FinishedAt = DateTime.Now;        
+        }
+    }
+    public void Start()
+    { 
+        if(Status == ProjectStatusEnum.Created)
+        {
+            this.Status = ProjectStatusEnum.InProgress;             
+            StartedAt  = DateTime.Now;           
+        }        
+    }
+
+    public void Update(string title, string description, decimal totalCost)
+    {
+        this.Title = title;
+        this.Description = description;
+        this.TotalCost = totalCost;
+    }
 }

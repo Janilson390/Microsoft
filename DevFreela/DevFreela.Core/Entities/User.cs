@@ -12,8 +12,7 @@ public class User :BaseEntity
 
         Skills = new List<UserSkill>();   
         OwnedProjects = new List<Project>();
-        FreelanceProjects = new List<Project>();
-        
+        FreelanceProjects = new List<Project>();        
     }
 
     public string FullName { get; private set; }
@@ -24,5 +23,16 @@ public class User :BaseEntity
     public List<UserSkill> Skills { get; private set; }
     public List<Project> OwnedProjects { get; private set; }    
     public List<Project> FreelanceProjects { get; private set; }    
+
+    public void Inative()
+    {
+        Active = false;
+    }
+
+    public void Update(string email, DateTime birthDate)
+    {
+        this.Email = email;
+        this.BirthDate = birthDate;
+    } 
 
 }
