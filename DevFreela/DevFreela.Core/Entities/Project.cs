@@ -1,3 +1,4 @@
+using System.Data.Common;
 using DevFreela.Core.Enums;
 
 namespace DevFreela.Core.Entities;
@@ -16,6 +17,21 @@ public class Project : BaseEntity
         Status = ProjectStatusEnum.Created;
         Comments = new List<ProjectComments>();
     }
+
+        public Project(int id, string title, string description, int idCliente, int idFreelancer, decimal? totalCost)
+        {
+        SetId(id);
+        this.Title = title;
+        this.Description = description;
+        this.IdCliente = idCliente;
+        this.IdFreelancer = idFreelancer;
+        this.TotalCost = totalCost;
+
+        CreatedAt = DateTime.Now;  
+        Status = ProjectStatusEnum.Created;
+        Comments = new List<ProjectComments>();
+    }
+
 
 
     public string Title { get; private set; }    

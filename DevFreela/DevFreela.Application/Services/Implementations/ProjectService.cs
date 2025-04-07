@@ -29,6 +29,8 @@ public class ProjectService : IProjectService
     {
         var project = _dbContext.Projects.SingleOrDefault(p => p.Id == id);
 
+        if (project == null) return null;
+
         var projectDetailsViewModel = new ProjectDetailsViewModel(project.Id, project.Title, 
                                                                   project.Description, project.TotalCost, 
                                                                   project.CreatedAt, project.FinishedAt, 

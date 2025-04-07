@@ -10,6 +10,12 @@ c:\Users\FQXL\OneDrive - PETROBRAS\Documentos\Projetos\Microsoft\DevFreela\DevFr
 c:\Users\FQXL\OneDrive - PETROBRAS\Documentos\Projetos\Microsoft\DevFreela\DevFreela.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 c:\Users\FQXL\OneDrive - PETROBRAS\Documentos\Projetos\Microsoft\DevFreela\DevFreela.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 c:\Users\FQXL\OneDrive - PETROBRAS\Documentos\Projetos\Microsoft\DevFreela\DevFreela.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\FQXL\OneDrive - PETROBRAS\Documentos\Projetos\Microsoft\DevFreela\DevFreela.API\bin\Debug\net8.0\DevFreela.Application.dll
+c:\Users\FQXL\OneDrive - PETROBRAS\Documentos\Projetos\Microsoft\DevFreela\DevFreela.API\bin\Debug\net8.0\DevFreela.Core.dll
+c:\Users\FQXL\OneDrive - PETROBRAS\Documentos\Projetos\Microsoft\DevFreela\DevFreela.API\bin\Debug\net8.0\DevFreela.Infrastructure.dll
+c:\Users\FQXL\OneDrive - PETROBRAS\Documentos\Projetos\Microsoft\DevFreela\DevFreela.API\bin\Debug\net8.0\DevFreela.Core.pdb
+c:\Users\FQXL\OneDrive - PETROBRAS\Documentos\Projetos\Microsoft\DevFreela\DevFreela.API\bin\Debug\net8.0\DevFreela.Infrastructure.pdb
+c:\Users\FQXL\OneDrive - PETROBRAS\Documentos\Projetos\Microsoft\DevFreela\DevFreela.API\bin\Debug\net8.0\DevFreela.Application.pdb
 c:\Users\FQXL\OneDrive - PETROBRAS\Documentos\Projetos\Microsoft\DevFreela\DevFreela.API\obj\Debug\net8.0\DevFreela.API.csproj.AssemblyReference.cache
 c:\Users\FQXL\OneDrive - PETROBRAS\Documentos\Projetos\Microsoft\DevFreela\DevFreela.API\obj\Debug\net8.0\DevFreela.API.GeneratedMSBuildEditorConfig.editorconfig
 c:\Users\FQXL\OneDrive - PETROBRAS\Documentos\Projetos\Microsoft\DevFreela\DevFreela.API\obj\Debug\net8.0\DevFreela.API.AssemblyInfoInputs.cache
@@ -17,6 +23,7 @@ c:\Users\FQXL\OneDrive - PETROBRAS\Documentos\Projetos\Microsoft\DevFreela\DevFr
 c:\Users\FQXL\OneDrive - PETROBRAS\Documentos\Projetos\Microsoft\DevFreela\DevFreela.API\obj\Debug\net8.0\DevFreela.API.csproj.CoreCompileInputs.cache
 c:\Users\FQXL\OneDrive - PETROBRAS\Documentos\Projetos\Microsoft\DevFreela\DevFreela.API\obj\Debug\net8.0\DevFreela.API.MvcApplicationPartsAssemblyInfo.cs
 c:\Users\FQXL\OneDrive - PETROBRAS\Documentos\Projetos\Microsoft\DevFreela\DevFreela.API\obj\Debug\net8.0\DevFreela.API.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\FQXL\OneDrive - PETROBRAS\Documentos\Projetos\Microsoft\DevFreela\DevFreela.API\obj\Debug\net8.0\DevFreela.API.sourcelink.json
 c:\Users\FQXL\OneDrive - PETROBRAS\Documentos\Projetos\Microsoft\DevFreela\DevFreela.API\obj\Debug\net8.0\staticwebassets.build.json
 c:\Users\FQXL\OneDrive - PETROBRAS\Documentos\Projetos\Microsoft\DevFreela\DevFreela.API\obj\Debug\net8.0\staticwebassets.development.json
 c:\Users\FQXL\OneDrive - PETROBRAS\Documentos\Projetos\Microsoft\DevFreela\DevFreela.API\obj\Debug\net8.0\staticwebassets\msbuild.DevFreela.API.Microsoft.AspNetCore.StaticWebAssets.props
@@ -31,6 +38,3 @@ c:\Users\FQXL\OneDrive - PETROBRAS\Documentos\Projetos\Microsoft\DevFreela\DevFr
 c:\Users\FQXL\OneDrive - PETROBRAS\Documentos\Projetos\Microsoft\DevFreela\DevFreela.API\obj\Debug\net8.0\DevFreela.API.pdb
 c:\Users\FQXL\OneDrive - PETROBRAS\Documentos\Projetos\Microsoft\DevFreela\DevFreela.API\obj\Debug\net8.0\DevFreela.API.genruntimeconfig.cache
 c:\Users\FQXL\OneDrive - PETROBRAS\Documentos\Projetos\Microsoft\DevFreela\DevFreela.API\obj\Debug\net8.0\ref\DevFreela.API.dll
-c:\Users\FQXL\OneDrive - PETROBRAS\Documentos\Projetos\Microsoft\DevFreela\DevFreela.API\obj\Debug\net8.0\DevFreela.API.sourcelink.json
-C:\Users\FQXL\OneDrive - PETROBRAS\Documentos\Projetos\Microsoft\DevFreela\DevFreela.API\bin\Debug\net8.0\DevFreela.Core.dll
-C:\Users\FQXL\OneDrive - PETROBRAS\Documentos\Projetos\Microsoft\DevFreela\DevFreela.API\bin\Debug\net8.0\DevFreela.Core.pdb

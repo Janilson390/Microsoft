@@ -7,9 +7,9 @@ public class DevFreelaDbContext
     public DevFreelaDbContext()
     {
         this.Projects = new List<Project>{
-        new Project("Meu projeto ASP.NET Core 1","Meu projeto ASP.NET Core 1", 1, 1, 10000),
-        new Project("Meu projeto ASP.NET Core 2","Meu projeto ASP.NET Core 2", 1, 1, 20000),
-        new Project("Meu projeto ASP.NET Core 3","Meu projeto ASP.NET Core 3", 1, 1, 30000)
+        new Project(1, "Meu projeto ASP.NET Core 1","Meu projeto ASP.NET Core 1", 1, 1, 10000),
+        new Project(2, "Meu projeto ASP.NET Core 2","Meu projeto ASP.NET Core 2", 1, 1, 20000),
+        new Project(3, "Meu projeto ASP.NET Core 3","Meu projeto ASP.NET Core 3", 1, 1, 30000)
         };
 
         this.Users = new List<User>{
