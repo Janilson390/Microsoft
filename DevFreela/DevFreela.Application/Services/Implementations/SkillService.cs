@@ -6,11 +6,15 @@ namespace DevFreela.Application.Services.Implementations;
 
 public class SkillService : ISkillService
 {
+    #region Context
     private readonly DevFreelaDbContext _dbContext; 
     public SkillService(DevFreelaDbContext dbContext)
     {
         _dbContext = dbContext;        
     }
+    #endregion Context
+
+    #region Views
     public List<SkillViewModel> GetAll()
     {
         var skills = _dbContext.Skills;
@@ -19,4 +23,5 @@ public class SkillService : ISkillService
 
         return skillViewModel;        
     }
+    #endregion Views
 }

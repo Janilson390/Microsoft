@@ -9,12 +9,16 @@ namespace DevFreela.Application.Services.Implementations;
 
 public class ProjectService : IProjectService
 {
+    #region Context
     private readonly DevFreelaDbContext _dbContext; 
 
     public ProjectService(DevFreelaDbContext dbContext)
     {
         _dbContext = dbContext;        
     }
+    #endregion Context
+
+    #region Views    
     public List<ProjectViewModel> GetAll (string query)
     {
         var projects = _dbContext.Projects;
@@ -39,6 +43,9 @@ public class ProjectService : IProjectService
         return projectDetailsViewModel;
 
     }
+    #endregion Views
+
+    #region Inputs        
     public int Create(NewProjectInputModel inputModel)
     {
         var project = new Project(inputModel.Title, inputModel.Description, inputModel.IdCliente, inputModel.IdFreelancer, inputModel.TotalCost);
@@ -76,4 +83,5 @@ public class ProjectService : IProjectService
         var project = _dbContext.Projects.SingleOrDefault(p => p.Id == id);
         project.Finish();
     }
+    #endregion Inputs
 }
