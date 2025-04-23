@@ -6,7 +6,14 @@ namespace DevFreela.Infrastructure.Persistence;
 
 public class DevFreelaDbContext : DbContext
 {
-    public DevFreelaDbContext(DbContextOptions<DevFreelaDbContext> options) : base(options)
+    
+    /*
+    public DevFreelaDbContext()
+    {
+    }
+    */
+    
+    public DevFreelaDbContext(DbContextOptions<DevFreelaDbContext> options): base(options)  
     {
     }
 
@@ -21,4 +28,5 @@ public class DevFreelaDbContext : DbContext
         modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
     }
 
+    //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) => optionsBuilder.UseSqlite(@"DataSource= .\DataBase\DevFreela.db");
 }
