@@ -48,10 +48,12 @@ public class UserController : ControllerBase
     [HttpPost()]
     public IActionResult Post([FromBody] NewUserInputModel inputModel)
     {
+        /*
         if (string.IsNullOrEmpty(inputModel.FullName))
         {
             return BadRequest("Nome do usuário está vazio!");
         }
+        */
 
         var id = _userService.Create(inputModel);
 

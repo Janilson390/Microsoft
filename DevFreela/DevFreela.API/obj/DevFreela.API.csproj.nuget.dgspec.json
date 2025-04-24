@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.API\\DevFreela.API.csproj": {}
+    "c:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.API\\DevFreela.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.API\\DevFreela.API.csproj": {
+    "c:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.API\\DevFreela.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.API\\DevFreela.API.csproj",
+        "projectUniqueName": "c:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.API\\DevFreela.API.csproj",
         "projectName": "DevFreela.API",
-        "projectPath": "C:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.API\\DevFreela.API.csproj",
+        "projectPath": "c:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.API\\DevFreela.API.csproj",
         "packagesPath": "C:\\Users\\FQXL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.API\\obj\\",
+        "outputPath": "c:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FQXL\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +26,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj": {
-                "projectPath": "C:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj"
+              "c:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj": {
+                "projectPath": "c:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj"
               },
-              "C:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
-                "projectPath": "C:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj"
+              "c:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
+                "projectPath": "c:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj"
               },
               "C:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj": {
                 "projectPath": "C:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj"
@@ -95,14 +95,14 @@
         }
       }
     },
-    "C:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj": {
+    "c:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj",
+        "projectUniqueName": "c:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj",
         "projectName": "DevFreela.Application",
-        "projectPath": "C:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj",
+        "projectPath": "c:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj",
         "packagesPath": "C:\\Users\\FQXL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Application\\obj\\",
+        "outputPath": "c:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FQXL\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -117,8 +117,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
-                "projectPath": "C:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj"
+              "c:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
+                "projectPath": "c:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj"
               },
               "C:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj": {
                 "projectPath": "C:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj"
@@ -160,14 +160,14 @@
         }
       }
     },
-    "C:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
+    "c:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj",
+        "projectUniqueName": "c:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj",
         "projectName": "DevFreela.Core",
-        "projectPath": "C:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj",
+        "projectPath": "c:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj",
         "packagesPath": "C:\\Users\\FQXL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Core\\obj\\",
+        "outputPath": "c:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FQXL\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -240,8 +240,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
-                "projectPath": "C:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj"
+              "c:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
+                "projectPath": "c:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj"
               }
             }
           }

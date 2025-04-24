@@ -47,6 +47,8 @@ public class UserService : IUserService
 
           _dbContext.Users.Add(user);
 
+          _dbContext.SaveChanges();
+
           return user.Id;
      }
      public void Update(UpdateUserInputModel inputModel)
@@ -56,6 +58,8 @@ public class UserService : IUserService
           if (user != null)
           {
                user.Update(inputModel.Email, inputModel.BirthDate);
+
+               _dbContext.SaveChanges();
           }
      }
      public void Delete(int id)
@@ -63,6 +67,8 @@ public class UserService : IUserService
           var user = _dbContext.Users.SingleOrDefault(u => u.Id == id);
 
           user.Inative();
+
+          _dbContext.SaveChanges();
      }
      public void Login(UpdateLoginInputModel inputModel)
      {
