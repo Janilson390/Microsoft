@@ -3258,8 +3258,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "c:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
-              "projectPath": "c:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj"
+            "C:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
+              "projectPath": "C:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj"
             }
           }
         }

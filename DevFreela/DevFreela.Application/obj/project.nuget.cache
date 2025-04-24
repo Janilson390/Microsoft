@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jZM/yfN1i2OXaun2LuzovYu1HiShtGDK0cu0Qb8/za/XvommIDZblSZfJzkpe1w4EdBaWjNkS3d10qTE3D/VuA==",
+  "dgSpecHash": "5JlMdrh3K/F/uSCSAC3p5/snKc2VmMi7Cc7XTmc0YUjczQ5gu9xGmnqoTcR7UX06kvFI1WuUj4pJDwj5+6gz+Q==",
   "success": true,
-  "projectFilePath": "c:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj",
+  "projectFilePath": "C:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FQXL\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.4\\microsoft.data.sqlite.core.9.0.4.nupkg.sha512",
     "C:\\Users\\FQXL\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.4\\microsoft.entityframeworkcore.9.0.4.nupkg.sha512",
