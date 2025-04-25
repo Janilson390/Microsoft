@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dBlCQX/hpjumMSDw1mBoN/tw22TgOn6UCSLHkbFVbcze37aDGkVWcRakfvhtUyYn1gOUwLje/3z50+z3v0Mwfg==",
+  "dgSpecHash": "/d4/upDaQoqHuEkqArmeZ17ZIDVhx03c96VixbUOHH91TR/m7gqTOIbr7LrW+7zxAzNQ5oqdyGqyeT53TXORPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj",
+  "projectFilePath": "c:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FQXL\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\FQXL\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

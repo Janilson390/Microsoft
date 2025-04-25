@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J/9/z9m/AE20CqRNTyIOioDxK8XhDXiiJfHVdZ4H9vnB/MiIpbbrq9T99+fHc5MG4YRZOz4IKmxALTF97w/acA==",
+  "dgSpecHash": "UN+Lu4BcV4lkK4/6VL4opK/4N4uHJ1TktYkpDySKtzwk6tliF4sVptfWRJ5g2fbwAuzVjJyEGU1fdrqHrvcrEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.API\\DevFreela.API.csproj",
+  "projectFilePath": "c:\\Users\\FQXL\\OneDrive - PETROBRAS\\Documentos\\Projetos\\Microsoft\\DevFreela\\DevFreela.API\\DevFreela.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FQXL\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\FQXL\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.6\\microsoft.aspnetcore.openapi.8.0.6.nupkg.sha512",

@@ -7,7 +7,8 @@ public class ProjectDetailsViewModel
 {
     private decimal? totalCost;
 
-    public ProjectDetailsViewModel(int id, string title, string description, decimal? totalCost, DateTime createdAt, DateTime? finishedAt, ProjectStatusEnum status, List<ProjectComments> comments)
+    public ProjectDetailsViewModel( int id, string title, string description, decimal? totalCost, 
+                                    DateTime createdAt, DateTime? finishedAt, string clienteFullName, string freelancerFullName)
     {
         Id = id;
         Title = title;
@@ -15,8 +16,8 @@ public class ProjectDetailsViewModel
         this.totalCost = totalCost;
         CreatedAt = createdAt;
         FinishedAt = finishedAt;
-        Status = status;
-        Comments = comments;
+        ClienteFullName = clienteFullName;
+        FreelancerFullName = freelancerFullName;
     }
 
     public int Id { get; private set; }    
@@ -26,6 +27,9 @@ public class ProjectDetailsViewModel
     public DateTime CreatedAt { get; private set; }
     public DateTime? StartedAt { get; private set; }
     public DateTime? FinishedAt { get; private set; }
+    public string ClienteFullName { get; private set; }
+    public string FreelancerFullName { get; private set; }
     public ProjectStatusEnum Status { get; private set; }
     public List<ProjectComments> Comments { get; private set; }
+
 }
