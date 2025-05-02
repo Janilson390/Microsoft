@@ -1,3 +1,4 @@
+using DevFreela.Application.InputModels;
 using DevFreela.Application.Services.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
@@ -21,7 +22,41 @@ public class SkillsController : ControllerBase
     {
         var skills = _skillService.GetAll();
 
+        if (skills == null)
+        {
+            return NotFound();
+        }
+
         return Ok(skills);   
     }
+
+    [HttpGet("{id}")]
+    public IActionResult GetById(int id)
+    {
+        var skill = _skillService.GetById(id);
+
+        if (skill == null)
+        {
+            return NotFound();
+        }
+
+        return Ok(skill);
+    }
     #endregion Views
+
+    #region Inputs
+    [HttpPost]
+    public IActionResult Post([FromBody] NewSkillInputModel inputModel)
+    {
+        if (inputModel.Description.Length > 50)
+        {
+            return BadRequest();
+        }
+
+        var id = _skillService.Create(inputModel);
+
+        return CreatedAtAction(nameof(GetById), new { id = id }, inputModel);
+
+    }
+    #endregion Inputs
 }
